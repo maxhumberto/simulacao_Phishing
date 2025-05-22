@@ -62,5 +62,5 @@
 ### 📸 Resultados
 
 ![Imagem 1](https://github.com/maxhumberto/simulacao_Phishing/blob/1deb7ea09eca04fe9298a3c0910abe96413ba2fa/WhatsApp%20Image%202025-05-22%20at%2016.53.26%20(1).jpeg)
-![Imagem 2](https://github.com/maxhumberto/simulacao_Phishing/blob/1deb7ea09eca04fe9298a3c0910abe96413ba2fa/WhatsApp%20Image%202025-05-22%20at%2016.53.26.jpeg)
+![Imagem 2](https://github.com/maxhumberto/simulacao_Phishing/blob/9be269ec3a1c123593c958de2b5e5b8beb20b722/WhatsApp%20Image%202025-05-22%20at%2016.53.26.jpeg)
 **Atenção:** Este conteúdo é apenas para fins **educacionais e de testes em ambientes controlados**. Qualquer uso indevido pode configurar crime cibernético.
